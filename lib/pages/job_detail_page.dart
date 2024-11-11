@@ -1,10 +1,7 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:findwork_api_app/model/bokes.dart';
 import 'package:findwork_api_app/model/local_job.dart';
-// import 'package:html/parser.dart' show parse;
 import 'package:flutter_html/flutter_html.dart';
 
 

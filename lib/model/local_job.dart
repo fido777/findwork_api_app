@@ -1,4 +1,3 @@
-// Create a LocalJob class that is a Hive Object for local persistenc
 import 'package:findwork_api_app/model/findwork_api_response.dart';
 import 'package:hive/hive.dart';
 part 'local_job.g.dart';
